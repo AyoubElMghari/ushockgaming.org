@@ -1,3 +1,3 @@
 ## Project description
 
-This is source code for the official Ultrashock Gaming Website built using HTML,CSS, & Javscript.
+This is the website made for Ultrashock Gaming and is built using HTML,CSS,Javscript.
